@@ -32,3 +32,7 @@ Firebase (Firestore, Auth, Cloud Functions) · Tailwind CSS
 ### Languages
 
 Arabic · English
+
+### Contact
+
+📧 [Abdulrhmanelkzuri@outlook.com](mailto:Abdulrhmanelkzuri@outlook.com)
